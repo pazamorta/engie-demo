@@ -1,0 +1,6 @@
+Property Name,AddressLine1,City,Postcode,Type,Market Identifier,Service Type,start_date,end_date,product,margin_value,tax_exemption,payment_term
+PizzaTrack Canary Wharf,10 Cabot Square,London,E14 4QJ,Site,MPAN-GORILLA-0001,Electricity,01/07/2026,30/06/2027,Green Fixed,2.50,0,30
+PizzaTrack Shoreditch,55 Great Eastern Street,London,EC2A 3QR,Site,MPAN-GORILLA-0002,Electricity,01/07/2026,30/06/2027,Green Fixed,2.50,0,30
+PizzaTrack Manchester,4 Deansgate,Manchester,M3 2BW,Site,MPAN-GORILLA-0003,Electricity,01/07/2026,30/06/2027,Green Fixed,2.75,0,30
+PizzaTrack Leeds,18 Park Row,Leeds,LS1 5JA,Site,MPAN-GORILLA-0004,Electricity,01/07/2026,30/06/2027,Green Fixed,2.75,0,30
+PizzaTrack Bristol,22 Baldwin Street,Bristol,BS1 1SE,Site,MPAN-GORILLA-0005,Electricity,01/07/2026,30/06/2027,Green Fixed,3.00,0,30
